@@ -4,4 +4,5 @@ Comment your name here:
 Haha, i krig og kjærlighet er alt lov:
 Yawar er enig :) 
 ~martin~
+Jacob va alltid her
 ~Trygve~
