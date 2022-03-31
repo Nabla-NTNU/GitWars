@@ -11,3 +11,4 @@ Sanne
 Sofiya var her
 
 Noe tull her - nytt
+Skriver noe mer her
