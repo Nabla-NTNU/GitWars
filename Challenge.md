@@ -8,3 +8,5 @@ Jacob va alltid her
 ~Trygve~
 Eivind
 Sanne
+Sofiya var her
+
