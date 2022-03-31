@@ -13,3 +13,6 @@ Sofiya var her
 Noe tull her - nytt
 Skriver noe mer her
 Litt mer tull her
+Litt mer tull her
+
+Prøver rebase
