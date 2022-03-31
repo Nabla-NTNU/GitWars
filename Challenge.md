@@ -12,3 +12,4 @@ Sofiya var her
 
 Noe tull her - nytt
 Skriver noe mer her
+Litt mer tull her
