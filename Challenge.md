@@ -9,6 +9,7 @@ Jacob va alltid her
 Eivind
 Sanne
 Sofiya var her
+Sigurd var her
 
 Noe tull her - nytt
 Skriver noe mer her
