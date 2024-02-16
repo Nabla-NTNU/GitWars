@@ -10,6 +10,7 @@ Eivind
 Sanne
 Sofiya var her
 Sigurd var her
+Theo var her
 
 Noe tull her - nytt
 Skriver noe mer her
