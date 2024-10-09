@@ -19,3 +19,4 @@ Litt mer tull her
 
 Prøver rebase
 Skriver noe mer her
+Skjønner noen egentlig det her?
