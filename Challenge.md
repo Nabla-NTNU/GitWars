@@ -20,3 +20,5 @@ Litt mer tull her
 Prøver rebase
 Skriver noe mer her
 Skjønner noen egentlig det her?
+
+Tester om dette kommer med på en ny branch123
